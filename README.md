@@ -1,0 +1,2 @@
+# SkribblWordlist
+Wordlist

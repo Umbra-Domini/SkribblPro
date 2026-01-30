@@ -9,6 +9,7 @@ car
 rug
 can
 bow
+chives
 bar
 pug
 rap
